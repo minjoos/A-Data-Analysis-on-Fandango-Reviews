@@ -1,4 +1,4 @@
-# RatingsBiasAnalysis (Capstone Project)
+# Analysis: Movie Rating Bias & Ticket Sale 
 
 This repository contains the solutions and data for the capstone project titled "Analyzing Bias in Online Movie Ratings".
 
